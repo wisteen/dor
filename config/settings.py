@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ip@aqmq1!*h+i8)b^v2!t$g=3@ia19^2@gwvc5%0aepvwj*j65
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["eduprofiler.com", "5.135.141.158", "127.0.0.1"]
+ALLOWED_HOSTS = ["dor-xym8.onrender.com", "5.135.141.158", "127.0.0.1"]
 
 # Application definition
 
